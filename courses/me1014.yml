@@ -1,0 +1,8 @@
+--- !ruby/struct:Course
+id: me1014
+name: Intro to ME4
+prereqs:
+- !ruby/struct:PreReq
+  course_id: me1019
+  alternative_course_ids: ['me1012']
+  concurrent: false

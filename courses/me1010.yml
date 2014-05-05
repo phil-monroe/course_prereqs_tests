@@ -1,0 +1,4 @@
+--- !ruby/struct:Course
+id: me1010
+name: Intro to ME
+prereqs: []
